@@ -1,3 +1,8 @@
+<style>
+h2, p{
+    font-family: 'Consolas'; text-align: center;
+    }
+</style>
 <div aling="center">
     <h2 style="font-family: 'Consolas'; text-align: center;">Olá, sou o Matheus, desenvolvedor de sistemas Web</h2>
     <p style="font-family: 'Consolas';">Estudando e aperfeiçoando Angular para front-end e Django API Rest Full como back-end</p>
