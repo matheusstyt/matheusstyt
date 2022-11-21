@@ -1,5 +1,5 @@
 <div aling="center">
-    <h2 style="font-family: 'Consolas';">Olá, sou o Matheus, desenvolvedor de sistemas Web</h2>
+    <h2 style="font-family: 'Consolas'; text-align: center;">Olá, sou o Matheus, desenvolvedor de sistemas Web</h2>
     <p style="font-family: 'Consolas';">Estudando e aperfeiçoando Angular para front-end e Django API Rest Full como back-end</p>
 </div>
 
