@@ -1,4 +1,8 @@
-## Olá, sou o Matheus, desenvolvedor de sistemas, me aperfeifeiçoando em Desenvolvimento Web Full Stack
+<div aling="center">
+    <h2 style="font-family: 'Consolas';">Olá, sou o Matheus, desenvolvedor de sistemas Web</h2>
+    <p style="font-family: 'Consolas';">Estudando e aperfeiçoando Angular para front-end e Django API Rest Full como back-end</p>
+</div>
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
