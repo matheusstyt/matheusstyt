@@ -1,14 +1,5 @@
-
-<div aling="center">
-    <style>
-h2, p{
-    font-family: 'Consolas'; text-align: center;
-    }
-</style>
-    <h2 style="font-family: 'Consolas'; text-align: center;">Olá, sou o Matheus, desenvolvedor de sistemas Web</h2>
-    <p style="font-family: 'Consolas';">Estudando e aperfeiçoando Angular para front-end e Django API Rest Full como back-end</p>
-</div>
-
+## Olá, sou o Matheus, desenvolvedor de sistemas Web
+# Estudando e aperfeiçoando Angular para front-end e Django API Rest Full como back-end
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
