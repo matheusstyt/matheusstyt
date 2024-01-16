@@ -1,5 +1,5 @@
-<h1 align="center">Olá, sou o Matheus, desenvolvedor de sistemas Web</h1>
-<h2 align="center"> Estudando e aperfeiçoando Angular para front-end e Django API Rest Full como back-end</h2>
+<h1 align="center">Olá, sou o Matheus, desenvolvedor Full Stack</h1>
+<h2 align="center"> Estudando e aperfeiçoando React, Vue >> front-end & Nest, Django API Rest >> back-end</h2>
 <div align="center">
   <a href="https://github.com/matheusstyt">
     
