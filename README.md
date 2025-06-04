@@ -10,13 +10,12 @@
 <img align="center" alt="Matheus.Dev-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
 <img align="center" alt="Matheus.Dev-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Matheus.Dev-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img align="center" alt="Matheus.Dev-Vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />   
-<img align="center" alt="Matheus.Dev-Js" height="50" width="60" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Matheus.Dev-Nest" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />   
-<img align="center" alt="Matheus.Dev-Nest" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />   
+<img align="center" alt="Matheus.Dev-Vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
+<img align="center" alt="Matheus.Dev-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Matheus.Dev-Nest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />   
+<img align="center" alt="Matheus.Dev-Prisma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+<img align="center" alt="Matheus.Dev-Redis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" />   
+<img align="center" alt="Matheus.Dev-Kafka" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />   
 <img align="center" alt="Matheus.Dev-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Matheus.Dev-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <p>Essas são as linguagem que possuo experiências, como vocês podem ver, meu objetivo é ser um Dev full stack.</p>
