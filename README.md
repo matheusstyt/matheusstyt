@@ -1,3 +1,5 @@
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge)
+
 <h1 align="center">🚀 Matheus | Desenvolvedor Full Cycle</h1>
 <h3 align="center">Apaixonado por tecnologia, construindo soluções no back-end, front-end, mobile e implantação</h3>
 
@@ -13,7 +15,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusstyt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge)
 
 ### 🧠 Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +48,7 @@
   <a href = "mailto:matheus20galdino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-galdino-083825144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/matheusstyt/matheusstyt/blob/output/dist/github-snake.svg)
+  ![snake gif](https://raw.githubusercontent.com/matheusstyt/matheusstyt/main/dist/github-snake.svg)
 
  
 </div>
