@@ -6,13 +6,15 @@
 - 💡 Interesse em Arquitetura de Software, DevOps e soluções escaláveis
 - 🎯 Objetivo: Ser um Dev Full Stack referência no mercado
 - 📫 Contato: matheus20galdino@gmail.com
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge)
 
 <div align="center">
   <a href="https://github.com/matheusstyt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusstyt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusstyt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge)
+
 ### 🧠 Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
