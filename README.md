@@ -9,6 +9,7 @@
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="Matheus.Dev-Vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />         
 <img align="center" alt="Matheus.Dev-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Matheus.Dev-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 <img align="center" alt="Matheus.Dev-Js" height="50" width="60" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="Matheus.Dev-Nest" height="50" width="60"
